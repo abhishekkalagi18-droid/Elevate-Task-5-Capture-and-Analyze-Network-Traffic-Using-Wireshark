@@ -85,4 +85,4 @@ This task provided practical experience capturing network traffic with Wireshark
 - `screenshots/dns.png` — DNS packet evidence.
 - `screenshots/tcp.png` — TCP/HTTP packet evidence.
 
-**Important:** The screenshots are evidence of the displayed packets, but they are not a substitute for the `.pcap` file. Save your own capture in Wireshark and add it as `task5_capture.pcap` before submitting.
+

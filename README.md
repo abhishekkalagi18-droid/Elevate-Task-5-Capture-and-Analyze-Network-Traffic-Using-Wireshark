@@ -81,8 +81,6 @@ This task provided practical experience capturing network traffic with Wireshark
 
 ## 9. Deliverables
 
-- `task5_capture.pcap` — export your actual Wireshark capture to this repository.
-- `report.md` — optional separate report with the protocol observations.
 - `screenshots/icmp.png` — ICMP packet evidence.
 - `screenshots/dns.png` — DNS packet evidence.
 - `screenshots/tcp.png` — TCP/HTTP packet evidence.
